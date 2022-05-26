@@ -1,4 +1,5 @@
 import { Button, Form, Input, InputNumber } from 'antd';
+import './App.css';
 const layout = {
   labelCol: {
     span: 8,
